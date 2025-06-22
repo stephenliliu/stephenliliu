@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFCB05&background=FFCB0500&width=435&lines=Hey%2C+I'm+Stephen!+Nice+to+see+you+%F0%9F%98%84)](https://git.io/typing-svg)
 
-I'm an April 2025 graduate in computer science from the University of Michigan.
+I'm an May 2025 graduate in computer science from the University of Michigan.
 
 While you're here, check out a few projects I've pinned below. You can also:
 * Contact me: sliliu@umich.edu
